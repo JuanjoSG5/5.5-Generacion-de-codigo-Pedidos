@@ -1,0 +1,5 @@
+package pago
+
+interface FormaPago {
+
+}
